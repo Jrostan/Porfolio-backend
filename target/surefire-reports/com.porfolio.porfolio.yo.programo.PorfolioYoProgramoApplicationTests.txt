@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.porfolio.porfolio.yo.programo.PorfolioYoProgramoApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.206 s - in com.porfolio.porfolio.yo.programo.PorfolioYoProgramoApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.912 s - in com.porfolio.porfolio.yo.programo.PorfolioYoProgramoApplicationTests
